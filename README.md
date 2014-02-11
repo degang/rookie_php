@@ -10,6 +10,7 @@ RookiePhp 是一个基于组件的高性能 PHP 框架，用于快速开发大�
 创建main.php配置文件内容可以自定义
 
 举个栗子
+
 return array(
 
     //基本配置文件
